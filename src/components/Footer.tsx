@@ -20,7 +20,7 @@ const Footer = () => {
           <div>
             <div className="flex items-center space-x-3 mb-6">
               <img
-                src="/chatgpt_image_dec_27,_2025,_03_08_33_pm.png"
+                src="/vijayalogo.png"
                 alt="Vijaya Banquet Hall Logo"
                 className="h-12 w-12 object-contain"
               />

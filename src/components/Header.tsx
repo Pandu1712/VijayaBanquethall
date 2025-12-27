@@ -24,7 +24,7 @@ const Header = ({ currentPage }: HeaderProps) => {
             onClick={() => navigateTo('home')}
           >
             <img
-              src="/chatgpt_image_dec_27,_2025,_03_08_33_pm.png"
+              src="/vijayalogo.png"
               alt="Vijaya Banquet Hall Logo"
               className="h-14 w-14 object-contain transform group-hover:scale-110 transition-transform duration-300"
             />
