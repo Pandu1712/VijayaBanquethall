@@ -21,11 +21,11 @@ const Footer = () => {
             <div className="flex items-center space-x-3 mb-6">
               <img
                 src="/vijayalogo.png"
-                alt="Vijaya Banquet Hall Logo"
+                alt="Vijay Banquet Hall Logo"
                 className="h-12 w-12 object-contain"
               />
               <div>
-                <h3 className="text-2xl font-bold text-[#C9A961]">Vijaya</h3>
+                <h3 className="text-2xl font-bold text-[#C9A961]">Vijay</h3>
                 <p className="text-sm text-gray-400">Banquet Hall</p>
               </div>
             </div>
@@ -117,7 +117,7 @@ const Footer = () => {
       <div className="border-t border-gray-700">
         <div className="container mx-auto px-4 py-6">
           <div className="flex flex-col md:flex-row justify-between items-center text-gray-400 text-sm">
-            <p>&copy; {currentYear} Vijaya Banquet Hall. All rights reserved.</p>
+            <p>&copy; {currentYear} Vijay Banquet Hall. All rights reserved.</p>
             <p className="mt-2 md:mt-0">
               Crafted with excellence in Suryapet, Telangana
             </p>

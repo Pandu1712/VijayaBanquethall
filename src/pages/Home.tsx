@@ -9,7 +9,7 @@ const Home = () => {
         <div className="absolute inset-0 z-0">
           <img
             src="https://images.pexels.com/photos/1444442/pexels-photo-1444442.jpeg"
-            alt="Vijaya Banquet Hall"
+            alt="Vijay Banquet Hall"
             className="w-full h-full object-cover"
           />
           <div className="absolute inset-0 bg-gradient-to-r from-black/70 via-black/50 to-black/70"></div>
@@ -21,7 +21,7 @@ const Home = () => {
               <Crown className="text-[#C9A961] w-16 h-16 animate-float" />
             </div>
             <h1 className="text-5xl md:text-7xl font-bold text-white mb-6 tracking-tight">
-              Vijaya Banquet Hall
+              Vijay Banquet Hall
             </h1>
             <p className="text-xl md:text-2xl text-gray-200 mb-4 font-light">
               Where Celebrations Meet Elegance
@@ -208,7 +208,7 @@ const Home = () => {
             Ready to Book Your Event?
           </h2>
           <p className="text-xl mb-8 max-w-2xl mx-auto">
-            Let us help you create unforgettable memories at Vijaya Banquet Hall
+            Let us help you create unforgettable memories at Vijay Banquet Hall
           </p>
           <button
             onClick={() => navigateTo('contact')}

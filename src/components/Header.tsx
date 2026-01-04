@@ -25,11 +25,11 @@ const Header = ({ currentPage }: HeaderProps) => {
           >
             <img
               src="/vijayalogo.png"
-              alt="Vijaya Banquet Hall Logo"
+              alt="Vijay Banquet Hall Logo"
               className="h-14 w-14 object-contain transform group-hover:scale-110 transition-transform duration-300"
             />
             <div className="hidden md:block">
-              <h1 className="text-2xl font-bold text-[#C9A961] tracking-wide">Vijaya</h1>
+              <h1 className="text-2xl font-bold text-[#C9A961] tracking-wide">Vijay</h1>
               <p className="text-sm text-gray-600 -mt-1">Banquet Hall</p>
             </div>
           </div>

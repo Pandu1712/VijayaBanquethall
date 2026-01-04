@@ -105,7 +105,7 @@ const Contact = () => {
               <div className="bg-white p-8 rounded-2xl shadow-xl mb-8">
                 <h3 className="text-3xl font-bold text-gray-900 mb-6">Events We Host</h3>
                 <p className="text-gray-600 mb-6 leading-relaxed">
-                  Vijaya Banquet Hall is the perfect venue for all types of celebrations and gatherings:
+                  Vijay Banquet Hall is the perfect venue for all types of celebrations and gatherings:
                 </p>
                 <div className="grid grid-cols-2 gap-4">
                   {events.map((event, index) => (

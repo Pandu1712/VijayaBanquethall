@@ -29,7 +29,7 @@ const About = () => {
               <div className="relative">
                 <img
                   src="https://images.pexels.com/photos/1444442/pexels-photo-1444442.jpeg"
-                  alt="Vijaya Banquet Hall"
+                  alt="Vijay Banquet Hall"
                   className="rounded-2xl shadow-2xl"
                 />
                 <div className="absolute -bottom-6 -right-6 bg-gradient-to-br from-[#C9A961] to-[#B8954A] p-8 rounded-2xl text-white shadow-xl">
@@ -42,10 +42,10 @@ const About = () => {
 
             <div>
               <h2 className="text-4xl font-bold text-gray-900 mb-6">
-                Welcome to Vijaya Banquet Hall
+                Welcome to Vijay Banquet Hall
               </h2>
               <p className="text-lg text-gray-600 mb-6 leading-relaxed">
-                Vijaya Banquet Hall stands as a premier destination for celebrations in Suryapet, Telangana.
+                Vijay Banquet Hall stands as a premier destination for celebrations in Suryapet, Telangana.
                 Our magnificent three-floor establishment has been designed with one goal in mind - to make
                 your special occasions truly unforgettable.
               </p>
@@ -72,7 +72,7 @@ const About = () => {
       <section className="py-20 bg-gradient-to-b from-gray-50 to-white">
         <div className="container mx-auto px-4">
           <div className="text-center mb-16">
-            <h2 className="text-4xl font-bold text-gray-900 mb-4">Why Choose Vijaya?</h2>
+            <h2 className="text-4xl font-bold text-gray-900 mb-4">Why Choose Vijay?</h2>
             <p className="text-xl text-gray-600">
               Excellence in every detail
             </p>
